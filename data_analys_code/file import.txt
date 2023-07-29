@@ -1,0 +1,17 @@
+создание файла импортируемого в гит :
+заходим в вс код
+ Вводим в коде 
+import os
+import numpy as np
+import cv2
+ в терминале пишем:
+git status
+git add 'название файла' c:/code/venvs/cv/Scripts/Activate.ps1
+python3 'название файла' 
+git status
+git commit -m 'first commit'
+git push
+
+
+cv2.resize() функция для выполнения изменения размера.
+
