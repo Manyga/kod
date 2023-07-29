@@ -1,4 +1,5 @@
-mport cv2
+import os
+import cv2
 import numpy as np
 
 def add_info_to_image(img_path):
